@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://service-map.pages.dev/sitemap.xml
